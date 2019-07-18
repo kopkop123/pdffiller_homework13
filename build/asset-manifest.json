@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pdffiller_homework13/static/css/main.498d002a.chunk.css",
-    "main.js": "/pdffiller_homework13/static/js/main.6d0b07a3.chunk.js",
-    "main.js.map": "/pdffiller_homework13/static/js/main.6d0b07a3.chunk.js.map",
-    "runtime~main.js": "/pdffiller_homework13/static/js/runtime~main.50fd0d5f.js",
-    "runtime~main.js.map": "/pdffiller_homework13/static/js/runtime~main.50fd0d5f.js.map",
-    "static/js/2.2e26626e.chunk.js": "/pdffiller_homework13/static/js/2.2e26626e.chunk.js",
-    "static/js/2.2e26626e.chunk.js.map": "/pdffiller_homework13/static/js/2.2e26626e.chunk.js.map",
-    "index.html": "/pdffiller_homework13/index.html",
-    "precache-manifest.cc6e22154691f65598f5a724e6e2fd25.js": "/pdffiller_homework13/precache-manifest.cc6e22154691f65598f5a724e6e2fd25.js",
-    "service-worker.js": "/pdffiller_homework13/service-worker.js",
-    "static/css/main.498d002a.chunk.css.map": "/pdffiller_homework13/static/css/main.498d002a.chunk.css.map"
+    "main.css": "/pdffiller_homework13/build/static/css/main.498d002a.chunk.css",
+    "main.js": "/pdffiller_homework13/build/static/js/main.6d0b07a3.chunk.js",
+    "main.js.map": "/pdffiller_homework13/build/static/js/main.6d0b07a3.chunk.js.map",
+    "runtime~main.js": "/pdffiller_homework13/build/static/js/runtime~main.f9fc702b.js",
+    "runtime~main.js.map": "/pdffiller_homework13/build/static/js/runtime~main.f9fc702b.js.map",
+    "static/js/2.2e26626e.chunk.js": "/pdffiller_homework13/build/static/js/2.2e26626e.chunk.js",
+    "static/js/2.2e26626e.chunk.js.map": "/pdffiller_homework13/build/static/js/2.2e26626e.chunk.js.map",
+    "index.html": "/pdffiller_homework13/build/index.html",
+    "precache-manifest.7e29d7c5fa2f0a11fbc7859930142c54.js": "/pdffiller_homework13/build/precache-manifest.7e29d7c5fa2f0a11fbc7859930142c54.js",
+    "service-worker.js": "/pdffiller_homework13/build/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/pdffiller_homework13/build/static/css/main.498d002a.chunk.css.map"
   }
 }
