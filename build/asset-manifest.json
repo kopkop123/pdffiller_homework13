@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.498d002a.chunk.css",
-    "main.js": "/static/js/main.6d0b07a3.chunk.js",
-    "main.js.map": "/static/js/main.6d0b07a3.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.2e26626e.chunk.js": "/static/js/2.2e26626e.chunk.js",
-    "static/js/2.2e26626e.chunk.js.map": "/static/js/2.2e26626e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d9a671cadf363416f6a71f2875a223eb.js": "/precache-manifest.d9a671cadf363416f6a71f2875a223eb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.498d002a.chunk.css.map": "/static/css/main.498d002a.chunk.css.map"
+    "main.css": "/pdffiller_homework13/static/css/main.498d002a.chunk.css",
+    "main.js": "/pdffiller_homework13/static/js/main.6d0b07a3.chunk.js",
+    "main.js.map": "/pdffiller_homework13/static/js/main.6d0b07a3.chunk.js.map",
+    "runtime~main.js": "/pdffiller_homework13/static/js/runtime~main.50fd0d5f.js",
+    "runtime~main.js.map": "/pdffiller_homework13/static/js/runtime~main.50fd0d5f.js.map",
+    "static/js/2.2e26626e.chunk.js": "/pdffiller_homework13/static/js/2.2e26626e.chunk.js",
+    "static/js/2.2e26626e.chunk.js.map": "/pdffiller_homework13/static/js/2.2e26626e.chunk.js.map",
+    "index.html": "/pdffiller_homework13/index.html",
+    "precache-manifest.cc6e22154691f65598f5a724e6e2fd25.js": "/pdffiller_homework13/precache-manifest.cc6e22154691f65598f5a724e6e2fd25.js",
+    "service-worker.js": "/pdffiller_homework13/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/pdffiller_homework13/static/css/main.498d002a.chunk.css.map"
   }
 }
